@@ -1,0 +1,10 @@
+Git: Sistema de control de versiones que permite gestionar y registrar cambios en un proyecto.
+Repositorio: Carpeta donde Git almacena los archivos del proyecto y su historial de cambios.
+Commit: Registro o "captura" de los cambios realizados en el proyecto.
+Staging Area (Área de preparación): Espacio temporal donde se colocan los cambios antes de crear un commit.
+Branch (Rama): Línea independiente de desarrollo que permite trabajar en nuevas funciones sin afectar la versión principal.
+Merge: Proceso de combinar los cambios de diferentes ramas en una sola.
+Clone: Copia de un repositorio remoto en tu computadora.
+Push: Envía los cambios del repositorio local a un repositorio remoto.
+Pull: Descarga y actualiza los cambios desde un repositorio remoto.
+GitHub: Plataforma en línea que permite almacenar, compartir y colaborar en proyectos que utilizan Git.
